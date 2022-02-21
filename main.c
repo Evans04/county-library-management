@@ -1,5 +1,5 @@
 county  Library management system.
-Evans Musyoki
+Evans musyoki
 Feb,2022
 GNU GCC
 C99
